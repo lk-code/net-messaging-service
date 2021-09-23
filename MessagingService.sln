@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService", "MessagingService\MessagingService.csproj", "{36C5DA0A-1750-40F8-8B5F-63314E6A7941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService.Test", "MessagingService.Test\MessagingService.Test.csproj", "{2E62416F-7861-4BBC-99BF-2110C5B2453E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.Test", "MessagingService.Test\MessagingService.Test.csproj", "{2E62416F-7861-4BBC-99BF-2110C5B2453E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
